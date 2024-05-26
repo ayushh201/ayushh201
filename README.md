@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <img src="https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png" alt="github profile intro">
-Highly motivated and detail-oriented with a strong foundation in Data Structures and Algorithms and extensive hands-on experience in MERN stack development. Proficient in designing, developing, and deploying robust web applications using MongoDB, Express.js, React, and Node.js.Adept at problem-solving and optimizing code for performance and scalability.
+Highly motivated and detail-oriented with a strong foundation in Data Structures and Algorithms and extensive hands-on experience in MERN stack development. Proficient in designing, developing, and deploying robust web applications using MongoDB, Express.js, React, and Node.js. Adept at problem-solving and optimizing code for performance and scalability.
 Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
 - 🔭 I’m currently working on **DSA Skills**
